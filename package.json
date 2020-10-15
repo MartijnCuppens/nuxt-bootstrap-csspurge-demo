@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-bs-demo",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "bootstrap": "^4.5.3",
+    "nuxt": "^2.14.6",
+    "nuxt-purgecss": "^1.0.0",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.3"
+  }
+}
